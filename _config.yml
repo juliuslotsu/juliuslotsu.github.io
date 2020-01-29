@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JULIUS LOTSU"
+title                    : "WEB/DATA-SCIENCE PLATFORM"
 title_separator          : "-"
-name                     : "JULIUS LOTSU"
-description              : "MY PERSONAL PORTFOLIO"
+name                     : "Julius Lotsu"
+description              : "A Web-Developer/Data-Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "JULIUS LOTSU"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MY PERSONAL PORTFOLIO"
-  location         : "ACCRA, GH."
+  name             : "Julius Lotsu"
+  avatar           : "/images/mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A Web-Developer/Data-Scientist"
+  location         : "Accrs, GH."
   email            : "juliuslotzu@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  #linkedin         : "" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
