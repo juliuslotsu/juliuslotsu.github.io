@@ -2,9 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I'm a Software Engineer who focuses more on Web development. Currently, I do PHP and Django Development. In Data-Science/Analytics I also focus on PyWebscraping. 
