@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Julius Lotsu"
   avatar           : "/images/mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Web-Developer/Data-Scientist"
+  bio              : "Web-Developer/Data-Scientist"
   location         : "Accrs, GH."
   email            : "juliuslotzu@gmail.com"
   uri              :
